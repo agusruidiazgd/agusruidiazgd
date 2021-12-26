@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Agus 👋
 
-<!--
-**agusruidiazgd/agusruidiazgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently working on an Telemedicine App as a React Native Developer. Also I am developing a prototype of an App to help people to organize their trips.
+🌱 I’m currently learning Kotlin and Swift to bacome a complete Mobile Developer!
 
-Here are some ideas to get you started:
+### I'm currently using these technologies:
+- React Native
+- React Js
+- Typescript / Javascript
+- Redux
+- Firebase
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 How to reach me:
+* ✨ <a href='https://www.linkedin.com/in/agusruidiaz/' target='_blank'>Linkedin</a>
+* ✨ <a href='mailto:agusruidiaz@hotmail.com' target='_blank'>Mail</a>
+
