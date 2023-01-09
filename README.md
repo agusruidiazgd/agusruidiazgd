@@ -6,11 +6,12 @@
 
 🌎 Also I am developing a prototype of an App to help people to organize their trips.
 
-🌱 I’m currently learning Kotlin and Swift to bacome a complete Mobile Developer!
+🌱 I’m currently learning Ruby on Rails to became a cool Ruby Dev!
 
 ### I'm currently using these technologies:
 - React Native
 - React Js
+- Ruby / Rails
 - Typescript / Javascript
 - Redux
 - Firebase
